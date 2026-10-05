@@ -1,0 +1,783 @@
+text,label,category,risk_score
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,16
+Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now. Do not ignore this alert.,1,UPI Scam,97
+NOTICE: Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately! Failure to do so will result in permanent suspension.,1,Tech Support Scam,94
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,7
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,16
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,21
+FINAL REMINDER: Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me Failure to do so will result in permanent suspension.,1,Social Media Scam,91
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,24
+IMPORTANT SECURITY ALERT: Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity. Do not ignore this alert.,1,OTP Scam,97
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,14
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,5
+"ACTION REQUIRED WITHIN 24 HOURS: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately. Do not ignore this alert.",1,UPI Scam,87
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,20
+"FINAL REMINDER: Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc Failure to do so will result in permanent suspension.",1,Government Impersonation,90
+"URGENT ATTENTION REQUIRED: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org",1,Government Impersonation,98
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,16
+Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately! Do not ignore this alert.,1,Tech Support Scam,96
+Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify Time sensitive offer expires in 15 minutes.,1,Banking Scam,99
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,8
+"NOTICE: Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank. Do not ignore this alert.",1,Loan Scam,94
+"ACTION REQUIRED WITHIN 24 HOURS: DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Do not ignore this alert.",1,OTP Scam,94
+"URGENT ATTENTION REQUIRED: DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Failure to do so will result in permanent suspension.",1,OTP Scam,93
+ACTION REQUIRED WITHIN 24 HOURS: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start. Do not ignore this alert.,1,Job Scam,85
+"You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214 Ignore this and legal action may be initiated.",1,UPI Scam,91
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 316.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,21
+"IMPORTANT SECURITY ALERT: DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk",1,Lottery Scam,93
+URGENT ATTENTION REQUIRED: Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now. Do not ignore this alert.,1,Tech Support Scam,94
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 701.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,7
+"IMPORTANT SECURITY ALERT: Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim.",1,Lottery Scam,99
+Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online,1,KYC Scam,88
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,23
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,3
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,24
+IMPORTANT SECURITY ALERT: DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice,1,Delivery Scam,93
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,21
+"URGENT ATTENTION REQUIRED: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately.",1,UPI Scam,94
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,6
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,14
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,14
+ACTION REQUIRED WITHIN 24 HOURS: Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim Failure to do so will result in permanent suspension.,1,Social Media Scam,92
+Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co,1,Investment Scam,99
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,6
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,12
+"NOTICE: Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc Time sensitive offer expires in 15 minutes.",1,Government Impersonation,97
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,17
+"NOTICE: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,94
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,6
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,10
+Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now. Failure to do so will result in permanent suspension.,1,UPI Scam,98
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,17
+"DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk Failure to do so will result in permanent suspension.",1,Lottery Scam,98
+FINAL REMINDER: Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me Contact helpdesk immediately if you did not authorize this.,1,Social Media Scam,89
+"ACTION REQUIRED WITHIN 24 HOURS: Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim.",1,Lottery Scam,98
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,11
+Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify Contact helpdesk immediately if you did not authorize this.,1,Banking Scam,95
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,5
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,10
+"NOTICE: PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,90
+"NOTICE: You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery. Contact helpdesk immediately if you did not authorize this.",1,Lottery Scam,98
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,20
+ACTION REQUIRED WITHIN 24 HOURS: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start. Failure to do so will result in permanent suspension.,1,Job Scam,88
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,20
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,22
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,4
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,22
+"IMPORTANT SECURITY ALERT: Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim. Do not ignore this alert.",1,Lottery Scam,99
+"Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim. Ignore this and legal action may be initiated.",1,Lottery Scam,95
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,10
+ACTION REQUIRED WITHIN 24 HOURS: Ministry of Finance Alert: PM Kisan Samman Nidhi installment is pending. Update your e-KYC and biometric credentials online: https://pmkisan-verification.info Contact helpdesk immediately if you did not authorize this.,1,Government Impersonation,90
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,24
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,4
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,18
+"IMPORTANT SECURITY ALERT: DHL International Logistics hiring shipment coordinators. Work from mobile. Deposit refundable equipment security charge of Rs 1,500 to receive company laptop. Time sensitive offer expires in 15 minutes.",1,Job Scam,93
+Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk,1,Loan Scam,94
+ACT IMMEDIATELY: Your ICICI NetBanking profile password will expire today. Renew now to prevent interruption in services: https://icici-security-renew.top/login Do not ignore this alert.,1,Banking Scam,88
+URGENT ATTENTION REQUIRED: Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech Ignore this and legal action may be initiated.,1,Crypto Scam,99
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,12
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,6
+FINAL REMINDER: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start. Contact helpdesk immediately if you did not authorize this.,1,Job Scam,89
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,9
+"ACTION REQUIRED WITHIN 24 HOURS: Congratulations! Your resume was shortlisted for Amazon Remote Data Entry Executive. Salary: $4,500/month. Pay initial registration fee of $50 to start onboarding. Time sensitive offer expires in 15 minutes.",1,Job Scam,90
+FINAL REMINDER: UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org Contact helpdesk immediately if you did not authorize this.,1,Delivery Scam,87
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,5
+Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk,1,Loan Scam,93
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,14
+"Congratulations! Your resume was shortlisted for Amazon Remote Data Entry Executive. Salary: $4,500/month. Pay initial registration fee of $50 to start onboarding. Contact helpdesk immediately if you did not authorize this.",1,Job Scam,91
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,24
+NOTICE: Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now.,1,OTP Scam,86
+"ACT IMMEDIATELY: Congratulations! You have won ₹50,000. Click this link immediately to claim your prize. Time sensitive offer expires in 15 minutes.",1,Prize Scam,92
+"NOTICE: DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk Failure to do so will result in permanent suspension.",1,Lottery Scam,95
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,16
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,8
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,12
+"ACTION REQUIRED WITHIN 24 HOURS: Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block. Failure to do so will result in permanent suspension.",1,Banking Scam,94
+"ACTION REQUIRED WITHIN 24 HOURS: Congratulations! You have won ₹50,000. Click this link immediately to claim your prize. Ignore this and legal action may be initiated.",1,Prize Scam,92
+NOTICE: Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk Failure to do so will result in permanent suspension.,1,Loan Scam,95
+"ACT IMMEDIATELY: Congratulations! You have won ₹50,000. Click this link immediately to claim your prize.",1,Prize Scam,95
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,20
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,7
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,23
+"NOTICE: You are the lucky visitor #1,000,000! Claim your Walmart $1,000 shopping voucher before timer runs out in 4 minutes: http://walmart-voucher-claim.site",1,Prize Scam,93
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,8
+"ACTION REQUIRED WITHIN 24 HOURS: You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery. Failure to do so will result in permanent suspension.",1,Lottery Scam,98
+"You are the lucky visitor #1,000,000! Claim your Walmart $1,000 shopping voucher before timer runs out in 4 minutes: http://walmart-voucher-claim.site",1,Prize Scam,91
+IMPORTANT SECURITY ALERT: Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc Ignore this and legal action may be initiated.,1,Crypto Scam,99
+"Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan.",1,Loan Scam,90
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,22
+DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice,1,Delivery Scam,91
+Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl,1,Investment Scam,95
+ACT IMMEDIATELY: Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify Time sensitive offer expires in 15 minutes.,1,Banking Scam,99
+"DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Do not ignore this alert.",1,OTP Scam,97
+"ACT IMMEDIATELY: You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214 Ignore this and legal action may be initiated.",1,UPI Scam,87
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,12
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,12
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,16
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,8
+FINAL REMINDER: Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online,1,KYC Scam,87
+India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net,1,Delivery Scam,93
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,11
+"IMPORTANT SECURITY ALERT: ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel Contact helpdesk immediately if you did not authorize this.",1,Banking Scam,93
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,15
+Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top,1,Prize Scam,95
+"Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip Time sensitive offer expires in 15 minutes.",1,Social Media Scam,89
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,17
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,9
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,19
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,11
+ACT IMMEDIATELY: Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info Ignore this and legal action may be initiated.,1,Crypto Scam,89
+"FINAL REMINDER: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately. Time sensitive offer expires in 15 minutes.",1,UPI Scam,95
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,11
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,15
+NOTICE: Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately! Do not ignore this alert.,1,Tech Support Scam,96
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,3
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,15
+ACTION REQUIRED WITHIN 24 HOURS: Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co Contact helpdesk immediately if you did not authorize this.,1,Investment Scam,92
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,91
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,9
+IMPORTANT SECURITY ALERT: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start. Failure to do so will result in permanent suspension.,1,Job Scam,88
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 349.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,10
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,15
+IMPORTANT SECURITY ALERT: Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip Contact helpdesk immediately if you did not authorize this.,1,Job Scam,91
+Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now. Failure to do so will result in permanent suspension.,1,OTP Scam,92
+IMPORTANT SECURITY ALERT: UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org,1,Delivery Scam,89
+NOTICE: Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk,1,Loan Scam,92
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,22
+URGENT ATTENTION REQUIRED: Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now. Contact helpdesk immediately if you did not authorize this.,1,OTP Scam,94
+IMPORTANT SECURITY ALERT: Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk,1,Loan Scam,93
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,23
+McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site,1,Tech Support Scam,90
+"NOTICE: You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery. Time sensitive offer expires in 15 minutes.",1,Lottery Scam,93
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,23
+Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk,1,Loan Scam,92
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,15
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,23
+ACTION REQUIRED WITHIN 24 HOURS: Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me,1,Social Media Scam,87
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 184.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,18
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,8
+URGENT ATTENTION REQUIRED: DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice Contact helpdesk immediately if you did not authorize this.,1,Delivery Scam,87
+"NOTICE: You are the lucky visitor #1,000,000! Claim your Walmart $1,000 shopping voucher before timer runs out in 4 minutes: http://walmart-voucher-claim.site",1,Prize Scam,92
+FINAL REMINDER: Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info Do not ignore this alert.,1,Crypto Scam,97
+"ACTION REQUIRED WITHIN 24 HOURS: Congratulations! You have won ₹50,000. Click this link immediately to claim your prize.",1,Prize Scam,98
+"Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc Do not ignore this alert.",1,Government Impersonation,97
+"Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately.",1,UPI Scam,91
+URGENT ATTENTION REQUIRED: UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org Time sensitive offer expires in 15 minutes.,1,Delivery Scam,93
+BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top Time sensitive offer expires in 15 minutes.,1,KYC Scam,82
+"IMPORTANT SECURITY ALERT: DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk Contact helpdesk immediately if you did not authorize this.",1,Lottery Scam,99
+URGENT ATTENTION REQUIRED: Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info,1,Crypto Scam,97
+ACT IMMEDIATELY: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top,1,KYC Scam,87
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,5
+Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify,1,Banking Scam,96
+IMPORTANT SECURITY ALERT: Your ICICI NetBanking profile password will expire today. Renew now to prevent interruption in services: https://icici-security-renew.top/login Do not ignore this alert.,1,Banking Scam,84
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,4
+Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now. Do not ignore this alert.,1,OTP Scam,93
+"ACTION REQUIRED WITHIN 24 HOURS: You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214",1,UPI Scam,86
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,19
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,6
+Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk Ignore this and legal action may be initiated.,1,Loan Scam,93
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,23
+"DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk Failure to do so will result in permanent suspension.",1,Lottery Scam,97
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,14
+"Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block. Failure to do so will result in permanent suspension.",1,Banking Scam,89
+FINAL REMINDER: Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me Time sensitive offer expires in 15 minutes.,1,Social Media Scam,85
+Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me,1,Social Media Scam,87
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,14
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,5
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,23
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,15
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,3
+URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start.,1,Job Scam,89
+"NOTICE: You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214",1,UPI Scam,93
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,11
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,19
+"ACTION REQUIRED WITHIN 24 HOURS: You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214 Do not ignore this alert.",1,UPI Scam,92
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,13
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,22
+Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info,1,Crypto Scam,94
+Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now.,1,UPI Scam,96
+Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online Time sensitive offer expires in 15 minutes.,1,KYC Scam,86
+Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim Do not ignore this alert.,1,Social Media Scam,89
+FINAL REMINDER: Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top,1,Prize Scam,96
+Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top Ignore this and legal action may be initiated.,1,Prize Scam,94
+"FINAL REMINDER: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,94
+Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz,1,Investment Scam,88
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,8
+"IMPORTANT SECURITY ALERT: Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank.",1,Loan Scam,93
+"Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan. Time sensitive offer expires in 15 minutes.",1,Loan Scam,95
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 870.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,15
+Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me,1,Social Media Scam,89
+ACT IMMEDIATELY: Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co Ignore this and legal action may be initiated.,1,Investment Scam,96
+"NOTICE: PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,95
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,10
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim Do not ignore this alert.",1,UPI Scam,98
+IMPORTANT SECURITY ALERT: DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice,1,Delivery Scam,87
+URGENT ATTENTION REQUIRED: Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info Time sensitive offer expires in 15 minutes.,1,Crypto Scam,94
+"ACTION REQUIRED WITHIN 24 HOURS: Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block.",1,Banking Scam,91
+FedEx: Your package #FDX-83921 could not be delivered due to incorrect street address. Please update delivery details within 12 hours or item will be returned: https://fedex-parcel-update.com/track Contact helpdesk immediately if you did not authorize this.,1,Delivery Scam,88
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,7
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,20
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,10
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,12
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,10
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,13
+Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip,1,Job Scam,87
+"Congratulations! You have won ₹50,000. Click this link immediately to claim your prize.",1,Prize Scam,95
+IMPORTANT SECURITY ALERT: Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc Contact helpdesk immediately if you did not authorize this.,1,Crypto Scam,99
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,14
+India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net Failure to do so will result in permanent suspension.,1,Delivery Scam,93
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,14
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,10
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,19
+"URGENT ATTENTION REQUIRED: DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk",1,Lottery Scam,99
+Ministry of Finance Alert: PM Kisan Samman Nidhi installment is pending. Update your e-KYC and biometric credentials online: https://pmkisan-verification.info Do not ignore this alert.,1,Government Impersonation,94
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,13
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,7
+ACTION REQUIRED WITHIN 24 HOURS: Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz,1,Investment Scam,91
+"Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan.",1,Loan Scam,92
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,21
+"Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block.",1,Banking Scam,96
+"Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block. Failure to do so will result in permanent suspension.",1,Banking Scam,90
+IMPORTANT SECURITY ALERT: Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info,1,Crypto Scam,96
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,13
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,21
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,10
+URGENT ATTENTION REQUIRED: FedEx: Your package #FDX-83921 could not be delivered due to incorrect street address. Please update delivery details within 12 hours or item will be returned: https://fedex-parcel-update.com/track Contact helpdesk immediately if you did not authorize this.,1,Delivery Scam,86
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,15
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,22
+URGENT ATTENTION REQUIRED: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start.,1,Job Scam,86
+"Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank. Failure to do so will result in permanent suspension.",1,Loan Scam,93
+"Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,90
+DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice,1,Delivery Scam,90
+"Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank.",1,Loan Scam,93
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,18
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,16
+"NOTICE: You are the lucky visitor #1,000,000! Claim your Walmart $1,000 shopping voucher before timer runs out in 4 minutes: http://walmart-voucher-claim.site",1,Prize Scam,91
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 147.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,5
+Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz Contact helpdesk immediately if you did not authorize this.,1,Investment Scam,88
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,19
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,16
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,15
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,16
+Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk Ignore this and legal action may be initiated.,1,Loan Scam,90
+IMPORTANT SECURITY ALERT: Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl Contact helpdesk immediately if you did not authorize this.,1,Investment Scam,95
+"ACTION REQUIRED WITHIN 24 HOURS: ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel Do not ignore this alert.",1,Banking Scam,97
+ACT IMMEDIATELY: Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim Contact helpdesk immediately if you did not authorize this.,1,Social Media Scam,86
+Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify,1,Banking Scam,93
+"DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Ignore this and legal action may be initiated.",1,OTP Scam,93
+"You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214 Failure to do so will result in permanent suspension.",1,UPI Scam,88
+FedEx: Your package #FDX-83921 could not be delivered due to incorrect street address. Please update delivery details within 12 hours or item will be returned: https://fedex-parcel-update.com/track,1,Delivery Scam,90
+URGENT ATTENTION REQUIRED: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start. Contact helpdesk immediately if you did not authorize this.,1,Job Scam,89
+Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity.,1,OTP Scam,91
+Ministry of Finance Alert: PM Kisan Samman Nidhi installment is pending. Update your e-KYC and biometric credentials online: https://pmkisan-verification.info,1,Government Impersonation,92
+"FINAL REMINDER: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip Contact helpdesk immediately if you did not authorize this.",1,Social Media Scam,93
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,95
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,6
+"NOTICE: Congratulations! You have won ₹50,000. Click this link immediately to claim your prize. Time sensitive offer expires in 15 minutes.",1,Prize Scam,98
+"IMPORTANT SECURITY ALERT: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan.",1,Loan Scam,89
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,19
+ACT IMMEDIATELY: McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site,1,Tech Support Scam,93
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,23
+UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org,1,Delivery Scam,91
+"Congratulations! You have won ₹50,000. Click this link immediately to claim your prize. Failure to do so will result in permanent suspension.",1,Prize Scam,98
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,7
+"Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,92
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,10
+NOTICE: Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech Contact helpdesk immediately if you did not authorize this.,1,Crypto Scam,99
+Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info Do not ignore this alert.,1,Crypto Scam,89
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,7
+UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org Failure to do so will result in permanent suspension.,1,Delivery Scam,89
+"IMPORTANT SECURITY ALERT: You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214",1,UPI Scam,91
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,7
+FINAL REMINDER: Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now. Failure to do so will result in permanent suspension.,1,UPI Scam,97
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,8
+"DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk",1,Lottery Scam,95
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,14
+"Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank. Failure to do so will result in permanent suspension.",1,Loan Scam,92
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,9
+URGENT ATTENTION REQUIRED: UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org,1,Delivery Scam,88
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,12
+Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip,1,Job Scam,91
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,3
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,18
+"ACT IMMEDIATELY: DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Time sensitive offer expires in 15 minutes.",1,OTP Scam,97
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,10
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,8
+"URGENT ATTENTION REQUIRED: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,91
+URGENT ATTENTION REQUIRED: Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me,1,Social Media Scam,85
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,17
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,17
+Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz Failure to do so will result in permanent suspension.,1,Investment Scam,91
+"NOTICE: Congratulations! You have won ₹50,000. Click this link immediately to claim your prize. Contact helpdesk immediately if you did not authorize this.",1,Prize Scam,96
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,24
+ACTION REQUIRED WITHIN 24 HOURS: Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech Ignore this and legal action may be initiated.,1,Crypto Scam,99
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,23
+FINAL REMINDER: Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now. Contact helpdesk immediately if you did not authorize this.,1,OTP Scam,86
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,13
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,22
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,7
+ACTION REQUIRED WITHIN 24 HOURS: Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info,1,Crypto Scam,92
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,10
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,22
+IMPORTANT SECURITY ALERT: Your ICICI NetBanking profile password will expire today. Renew now to prevent interruption in services: https://icici-security-renew.top/login Contact helpdesk immediately if you did not authorize this.,1,Banking Scam,90
+IMPORTANT SECURITY ALERT: Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online Do not ignore this alert.,1,KYC Scam,88
+ACT IMMEDIATELY: Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl,1,Investment Scam,91
+"Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan. Do not ignore this alert.",1,Loan Scam,93
+Ministry of Finance Alert: PM Kisan Samman Nidhi installment is pending. Update your e-KYC and biometric credentials online: https://pmkisan-verification.info Time sensitive offer expires in 15 minutes.,1,Government Impersonation,90
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,14
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,6
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,4
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,7
+NOTICE: Ministry of Finance Alert: PM Kisan Samman Nidhi installment is pending. Update your e-KYC and biometric credentials online: https://pmkisan-verification.info Failure to do so will result in permanent suspension.,1,Government Impersonation,96
+"Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,91
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,5
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,16
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,94
+Ministry of Finance Alert: PM Kisan Samman Nidhi installment is pending. Update your e-KYC and biometric credentials online: https://pmkisan-verification.info Do not ignore this alert.,1,Government Impersonation,93
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,19
+India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net Do not ignore this alert.,1,Delivery Scam,95
+IMPORTANT SECURITY ALERT: Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl Do not ignore this alert.,1,Investment Scam,93
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,10
+"Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim.",1,Lottery Scam,98
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,17
+"DHL International Logistics hiring shipment coordinators. Work from mobile. Deposit refundable equipment security charge of Rs 1,500 to receive company laptop.",1,Job Scam,92
+Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co Failure to do so will result in permanent suspension.,1,Investment Scam,97
+"NOTICE: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org",1,Government Impersonation,91
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,3
+"IMPORTANT SECURITY ALERT: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan.",1,Loan Scam,89
+IMPORTANT SECURITY ALERT: UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org Failure to do so will result in permanent suspension.,1,Delivery Scam,91
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 109.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,8
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,11
+Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl,1,Investment Scam,93
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,14
+FINAL REMINDER: Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now. Time sensitive offer expires in 15 minutes.,1,Tech Support Scam,99
+"IMPORTANT SECURITY ALERT: PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim Do not ignore this alert.",1,UPI Scam,98
+FINAL REMINDER: Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now. Failure to do so will result in permanent suspension.,1,UPI Scam,94
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,18
+Your ICICI NetBanking profile password will expire today. Renew now to prevent interruption in services: https://icici-security-renew.top/login,1,Banking Scam,88
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,20
+ACTION REQUIRED WITHIN 24 HOURS: Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl,1,Investment Scam,97
+"IMPORTANT SECURITY ALERT: Congratulations! Your resume was shortlisted for Amazon Remote Data Entry Executive. Salary: $4,500/month. Pay initial registration fee of $50 to start onboarding. Contact helpdesk immediately if you did not authorize this.",1,Job Scam,94
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,5
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,5
+"IMPORTANT SECURITY ALERT: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org Failure to do so will result in permanent suspension.",1,Government Impersonation,92
+"URGENT ATTENTION REQUIRED: PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,97
+"ACT IMMEDIATELY: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately.",1,UPI Scam,93
+NOTICE: DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice Failure to do so will result in permanent suspension.,1,Delivery Scam,88
+"FINAL REMINDER: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately.",1,UPI Scam,90
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,8
+Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me Do not ignore this alert.,1,Social Media Scam,93
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,20
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,4
+"Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org Ignore this and legal action may be initiated.",1,Government Impersonation,93
+"NOTICE: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org Time sensitive offer expires in 15 minutes.",1,Government Impersonation,92
+"NOTICE: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip Ignore this and legal action may be initiated.",1,Social Media Scam,91
+"NOTICE: You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery. Time sensitive offer expires in 15 minutes.",1,Lottery Scam,97
+India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net Contact helpdesk immediately if you did not authorize this.,1,Delivery Scam,96
+"Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block. Do not ignore this alert.",1,Banking Scam,94
+"ACTION REQUIRED WITHIN 24 HOURS: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan. Do not ignore this alert.",1,Loan Scam,91
+Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim,1,Social Media Scam,88
+"DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately.",1,OTP Scam,93
+IMPORTANT SECURITY ALERT: Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now.,1,UPI Scam,99
+ACT IMMEDIATELY: India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net Do not ignore this alert.,1,Delivery Scam,96
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,24
+"URGENT ATTENTION REQUIRED: Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim. Contact helpdesk immediately if you did not authorize this.",1,Lottery Scam,95
+ACT IMMEDIATELY: Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me Ignore this and legal action may be initiated.,1,Social Media Scam,93
+FINAL REMINDER: McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site,1,Tech Support Scam,94
+"You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214 Contact helpdesk immediately if you did not authorize this.",1,UPI Scam,89
+"FINAL REMINDER: Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank.",1,Loan Scam,94
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,16
+Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz,1,Investment Scam,86
+ACTION REQUIRED WITHIN 24 HOURS: Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc Failure to do so will result in permanent suspension.,1,Crypto Scam,97
+Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co Time sensitive offer expires in 15 minutes.,1,Investment Scam,93
+"Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org",1,Government Impersonation,94
+"NOTICE: Dear User, your Airtel SIM KYC is incomplete and your outgoing calls will be stopped in 24 hours. Call 9823481234 or visit http://airtel-quick-kyc.site Failure to do so will result in permanent suspension.",1,KYC Scam,84
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,7
+"ACT IMMEDIATELY: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org",1,Government Impersonation,95
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,14
+Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity. Do not ignore this alert.,1,OTP Scam,96
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,17
+IMPORTANT SECURITY ALERT: Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech Failure to do so will result in permanent suspension.,1,Crypto Scam,99
+Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl Ignore this and legal action may be initiated.,1,Investment Scam,93
+FINAL REMINDER: Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now. Do not ignore this alert.,1,Tech Support Scam,98
+"FINAL REMINDER: Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank. Ignore this and legal action may be initiated.",1,Loan Scam,94
+ACT IMMEDIATELY: Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately! Time sensitive offer expires in 15 minutes.,1,Tech Support Scam,97
+"Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block. Do not ignore this alert.",1,Banking Scam,92
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,21
+"URGENT ATTENTION REQUIRED: Congratulations! Your resume was shortlisted for Amazon Remote Data Entry Executive. Salary: $4,500/month. Pay initial registration fee of $50 to start onboarding. Ignore this and legal action may be initiated.",1,Job Scam,93
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,13
+Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top Do not ignore this alert.,1,Prize Scam,91
+"FINAL REMINDER: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately.",1,UPI Scam,88
+"You are the lucky visitor #1,000,000! Claim your Walmart $1,000 shopping voucher before timer runs out in 4 minutes: http://walmart-voucher-claim.site Time sensitive offer expires in 15 minutes.",1,Prize Scam,95
+"URGENT ATTENTION REQUIRED: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip Time sensitive offer expires in 15 minutes.",1,Social Media Scam,88
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,21
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,24
+Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech,1,Crypto Scam,99
+Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info Ignore this and legal action may be initiated.,1,Crypto Scam,92
+IMPORTANT SECURITY ALERT: Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co,1,Investment Scam,99
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,18
+URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start. Contact helpdesk immediately if you did not authorize this.,1,Job Scam,86
+Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately!,1,Tech Support Scam,96
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,3
+"FINAL REMINDER: Dear User, your Airtel SIM KYC is incomplete and your outgoing calls will be stopped in 24 hours. Call 9823481234 or visit http://airtel-quick-kyc.site Do not ignore this alert.",1,KYC Scam,83
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,24
+Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info,1,Crypto Scam,93
+"NOTICE: DHL International Logistics hiring shipment coordinators. Work from mobile. Deposit refundable equipment security charge of Rs 1,500 to receive company laptop. Ignore this and legal action may be initiated.",1,Job Scam,89
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,5
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,23
+URGENT ATTENTION REQUIRED: Binance Security Alert: Your crypto withdrawal of 1.45 ETH is pending approval. Cancel transaction immediately if unauthorized: http://binance-cancel-withdraw.info,1,Crypto Scam,97
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,19
+BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top Time sensitive offer expires in 15 minutes.,1,KYC Scam,85
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,23
+ACTION REQUIRED WITHIN 24 HOURS: Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim,1,Social Media Scam,87
+Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now.,1,OTP Scam,89
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,18
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,17
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 488.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,15
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,18
+"URGENT ATTENTION REQUIRED: Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block.",1,Banking Scam,91
+URGENT ATTENTION REQUIRED: Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now. Contact helpdesk immediately if you did not authorize this.,1,Tech Support Scam,99
+"FINAL REMINDER: Dear User, your Airtel SIM KYC is incomplete and your outgoing calls will be stopped in 24 hours. Call 9823481234 or visit http://airtel-quick-kyc.site Failure to do so will result in permanent suspension.",1,KYC Scam,83
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,12
+"Congratulations! You have won ₹50,000. Click this link immediately to claim your prize. Time sensitive offer expires in 15 minutes.",1,Prize Scam,95
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,7
+"DHL International Logistics hiring shipment coordinators. Work from mobile. Deposit refundable equipment security charge of Rs 1,500 to receive company laptop. Failure to do so will result in permanent suspension.",1,Job Scam,95
+"DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk Contact helpdesk immediately if you did not authorize this.",1,Lottery Scam,99
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 116.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,9
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,23
+Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim Failure to do so will result in permanent suspension.,1,Social Media Scam,93
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,6
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,12
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,20
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,20
+IMPORTANT SECURITY ALERT: Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately! Ignore this and legal action may be initiated.,1,Tech Support Scam,99
+ACTION REQUIRED WITHIN 24 HOURS: McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site Ignore this and legal action may be initiated.,1,Tech Support Scam,94
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,7
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,20
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,5
+Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc,1,Crypto Scam,95
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,6
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,5
+ACTION REQUIRED WITHIN 24 HOURS: UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org Do not ignore this alert.,1,Delivery Scam,91
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,3
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,22
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,11
+URGENT ATTENTION REQUIRED: Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online Contact helpdesk immediately if you did not authorize this.,1,KYC Scam,86
+"DHL International Logistics hiring shipment coordinators. Work from mobile. Deposit refundable equipment security charge of Rs 1,500 to receive company laptop. Contact helpdesk immediately if you did not authorize this.",1,Job Scam,93
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,4
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,10
+IMPORTANT SECURITY ALERT: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start.,1,Job Scam,86
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,24
+"ACTION REQUIRED WITHIN 24 HOURS: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately.",1,UPI Scam,95
+"Dear User, your Airtel SIM KYC is incomplete and your outgoing calls will be stopped in 24 hours. Call 9823481234 or visit http://airtel-quick-kyc.site Contact helpdesk immediately if you did not authorize this.",1,KYC Scam,87
+"NOTICE: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan.",1,Loan Scam,96
+Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now.,1,Tech Support Scam,95
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,8
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,20
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,5
+NOTICE: Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify Ignore this and legal action may be initiated.,1,Banking Scam,96
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,20
+FINAL REMINDER: Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now.,1,OTP Scam,91
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,8
+Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me Failure to do so will result in permanent suspension.,1,Social Media Scam,90
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,8
+"FINAL REMINDER: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan. Contact helpdesk immediately if you did not authorize this.",1,Loan Scam,94
+India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net Failure to do so will result in permanent suspension.,1,Delivery Scam,96
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,21
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,11
+Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech Contact helpdesk immediately if you did not authorize this.,1,Crypto Scam,98
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,18
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,22
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,24
+"Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block.",1,Banking Scam,92
+DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice Contact helpdesk immediately if you did not authorize this.,1,Delivery Scam,91
+"Congratulations! You have won ₹50,000. Click this link immediately to claim your prize. Failure to do so will result in permanent suspension.",1,Prize Scam,99
+"You are the lucky visitor #1,000,000! Claim your Walmart $1,000 shopping voucher before timer runs out in 4 minutes: http://walmart-voucher-claim.site",1,Prize Scam,89
+"Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim. Ignore this and legal action may be initiated.",1,Lottery Scam,99
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,4
+"Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc Ignore this and legal action may be initiated.",1,Government Impersonation,95
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,13
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 143.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,10
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,21
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,3
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,8
+NOTICE: Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now. Ignore this and legal action may be initiated.,1,OTP Scam,93
+FINAL REMINDER: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top,1,KYC Scam,87
+"Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org",1,Government Impersonation,97
+ACTION REQUIRED WITHIN 24 HOURS: Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity. Failure to do so will result in permanent suspension.,1,OTP Scam,99
+ACTION REQUIRED WITHIN 24 HOURS: Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim,1,Social Media Scam,93
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,15
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,7
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,19
+"Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately.",1,UPI Scam,87
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,13
+FINAL REMINDER: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top,1,KYC Scam,86
+Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc Do not ignore this alert.,1,Crypto Scam,94
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,14
+Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl Contact helpdesk immediately if you did not authorize this.,1,Investment Scam,94
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,93
+FINAL REMINDER: Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now. Time sensitive offer expires in 15 minutes.,1,OTP Scam,94
+"NOTICE: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan.",1,Loan Scam,89
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,10
+"DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk Time sensitive offer expires in 15 minutes.",1,Lottery Scam,98
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,14
+Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now. Failure to do so will result in permanent suspension.,1,Tech Support Scam,92
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,16
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,24
+ACT IMMEDIATELY: Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now.,1,Tech Support Scam,92
+"You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery.",1,Lottery Scam,96
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,17
+ACTION REQUIRED WITHIN 24 HOURS: Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online Time sensitive offer expires in 15 minutes.,1,KYC Scam,92
+ACT IMMEDIATELY: Your ICICI NetBanking profile password will expire today. Renew now to prevent interruption in services: https://icici-security-renew.top/login Ignore this and legal action may be initiated.,1,Banking Scam,86
+McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site Ignore this and legal action may be initiated.,1,Tech Support Scam,89
+IMPORTANT SECURITY ALERT: Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip,1,Job Scam,87
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 586.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,11
+BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top,1,KYC Scam,85
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,22
+FINAL REMINDER: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top Contact helpdesk immediately if you did not authorize this.,1,KYC Scam,88
+McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site Contact helpdesk immediately if you did not authorize this.,1,Tech Support Scam,87
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,15
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,11
+Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately! Time sensitive offer expires in 15 minutes.,1,Tech Support Scam,94
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,94
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,17
+Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co,1,Investment Scam,96
+IMPORTANT SECURITY ALERT: URGENT HIRING: Part-time online job for students and housewives. Daily payout guaranteed. No experience needed. Join Telegram channel t.me/daily_task_income to start. Do not ignore this alert.,1,Job Scam,85
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,17
+FINAL REMINDER: Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now.,1,OTP Scam,87
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,5
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,23
+ACTION REQUIRED WITHIN 24 HOURS: Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip Contact helpdesk immediately if you did not authorize this.,1,Job Scam,88
+NOTICE: Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify Ignore this and legal action may be initiated.,1,Banking Scam,99
+"ACTION REQUIRED WITHIN 24 HOURS: DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Ignore this and legal action may be initiated.",1,OTP Scam,94
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,9
+ACTION REQUIRED WITHIN 24 HOURS: Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc Contact helpdesk immediately if you did not authorize this.,1,Crypto Scam,99
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,13
+URGENT ATTENTION REQUIRED: Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately!,1,Tech Support Scam,92
+"Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc",1,Government Impersonation,94
+"ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel",1,Banking Scam,99
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,13
+IMPORTANT SECURITY ALERT: Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech,1,Crypto Scam,98
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,7
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,21
+NOTICE: Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top Ignore this and legal action may be initiated.,1,Prize Scam,94
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,17
+"ACT IMMEDIATELY: You are the lucky visitor #1,000,000! Claim your Walmart $1,000 shopping voucher before timer runs out in 4 minutes: http://walmart-voucher-claim.site Ignore this and legal action may be initiated.",1,Prize Scam,94
+"FINAL REMINDER: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org Ignore this and legal action may be initiated.",1,Government Impersonation,96
+ACTION REQUIRED WITHIN 24 HOURS: Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz Ignore this and legal action may be initiated.,1,Investment Scam,85
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 450.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,17
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,20
+"ACTION REQUIRED WITHIN 24 HOURS: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org Time sensitive offer expires in 15 minutes.",1,Government Impersonation,95
+FedEx: Your package #FDX-83921 could not be delivered due to incorrect street address. Please update delivery details within 12 hours or item will be returned: https://fedex-parcel-update.com/track,1,Delivery Scam,92
+URGENT ATTENTION REQUIRED: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top Do not ignore this alert.,1,KYC Scam,86
+"FINAL REMINDER: ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel",1,Banking Scam,97
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,7
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,11
+"FINAL REMINDER: You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214",1,UPI Scam,91
+Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz Contact helpdesk immediately if you did not authorize this.,1,Investment Scam,92
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,3
+"FINAL REMINDER: Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank. Contact helpdesk immediately if you did not authorize this.",1,Loan Scam,93
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,15
+ACTION REQUIRED WITHIN 24 HOURS: Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top Time sensitive offer expires in 15 minutes.,1,Prize Scam,90
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,6
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,7
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,12
+NOTICE: Twitter / X Badge: You qualify for verified blue checkmark for free! Verify your handle and login password here: https://twitter-verify-badge.top/claim Failure to do so will result in permanent suspension.,1,Social Media Scam,94
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,17
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,7
+ACT IMMEDIATELY: Ministry of Finance Alert: PM Kisan Samman Nidhi installment is pending. Update your e-KYC and biometric credentials online: https://pmkisan-verification.info Do not ignore this alert.,1,Government Impersonation,91
+FINAL REMINDER: FedEx: Your package #FDX-83921 could not be delivered due to incorrect street address. Please update delivery details within 12 hours or item will be returned: https://fedex-parcel-update.com/track Failure to do so will result in permanent suspension.,1,Delivery Scam,89
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,23
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,15
+IMPORTANT SECURITY ALERT: Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top Failure to do so will result in permanent suspension.,1,Prize Scam,94
+India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net,1,Delivery Scam,89
+"ACT IMMEDIATELY: PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,91
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,22
+Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now. Contact helpdesk immediately if you did not authorize this.,1,Tech Support Scam,93
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,23
+"DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Do not ignore this alert.",1,OTP Scam,94
+FINAL REMINDER: DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice,1,Delivery Scam,92
+"NOTICE: Paytm Refund: Your refund of Rs 3,500 is waiting. Approve the UPI collect request or visit http://paytm-refund-approval.xyz to receive cash immediately. Contact helpdesk immediately if you did not authorize this.",1,UPI Scam,89
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,6
+NOTICE: Apple Security Warning: Your iCloud has been breached from an unknown device in Moscow. All photos and messages will be wiped. Call Apple Support at +1-888-294-8192 right now. Do not ignore this alert.,1,Tech Support Scam,97
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,17
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,20
+"Dear customer, your SBI bank account ending in 4021 has been suspended due to pending KYC verification. Update immediately at https://sbi-kyc-portal.secure-net.cc to avoid permanent account block.",1,Banking Scam,93
+URGENT ATTENTION REQUIRED: FedEx: Your package #FDX-83921 could not be delivered due to incorrect street address. Please update delivery details within 12 hours or item will be returned: https://fedex-parcel-update.com/track,1,Delivery Scam,91
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,19
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,5
+FINAL REMINDER: Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify,1,Banking Scam,98
+Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online Contact helpdesk immediately if you did not authorize this.,1,KYC Scam,90
+DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice,1,Delivery Scam,89
+ACTION REQUIRED WITHIN 24 HOURS: Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech Contact helpdesk immediately if you did not authorize this.,1,Crypto Scam,99
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,16
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,17
+DHL Express: Important notice regarding shipment DHL-99214. Reschedule delivery date and pay re-delivery surcharge: https://dhl-express-tracking.cc/notice Ignore this and legal action may be initiated.,1,Delivery Scam,93
+"NOTICE: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,96
+Slack notification: @alex mentioned you in #general: 'Can you check the staging build logs when you get a chance?',0,Legitimate,12
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,12
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,7
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,10
+Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl,1,Investment Scam,98
+"URGENT ATTENTION REQUIRED: DEAR WINNER: Your mobile number has won £750,000 in the UK National Lottery International program. Send full name, address and passport to claim-desk@uklottery-dept.co.uk Do not ignore this alert.",1,Lottery Scam,99
+"ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel Time sensitive offer expires in 15 minutes.",1,Banking Scam,93
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,5
+"Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim. Time sensitive offer expires in 15 minutes.",1,Lottery Scam,94
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,5
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,23
+"URGENT ATTENTION REQUIRED: DHL International Logistics hiring shipment coordinators. Work from mobile. Deposit refundable equipment security charge of Rs 1,500 to receive company laptop. Do not ignore this alert.",1,Job Scam,94
+ACTION REQUIRED WITHIN 24 HOURS: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top,1,KYC Scam,84
+Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now.,1,UPI Scam,97
+FINAL REMINDER: Instagram Copyright Infringement Notice: Your account will be permanently deleted in 24 hours for community guideline violation. Appeal via our official form: https://instagram-help-verify.me Contact helpdesk immediately if you did not authorize this.,1,Social Media Scam,92
+"NOTICE: ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel Time sensitive offer expires in 15 minutes.",1,Banking Scam,94
+"ACTION REQUIRED WITHIN 24 HOURS: Congratulations! You have won ₹50,000. Click this link immediately to claim your prize.",1,Prize Scam,98
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,20
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,15
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,18
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,8
+"You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery. Contact helpdesk immediately if you did not authorize this.",1,Lottery Scam,94
+UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org Failure to do so will result in permanent suspension.,1,Delivery Scam,88
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 656.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,21
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,5
+"NOTICE: Congratulations! Your resume was shortlisted for Amazon Remote Data Entry Executive. Salary: $4,500/month. Pay initial registration fee of $50 to start onboarding. Do not ignore this alert.",1,Job Scam,94
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,8
+IMPORTANT SECURITY ALERT: Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now. Ignore this and legal action may be initiated.,1,UPI Scam,95
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,22
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim Failure to do so will result in permanent suspension.",1,UPI Scam,92
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,17
+"IMPORTANT SECURITY ALERT: Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank. Time sensitive offer expires in 15 minutes.",1,Loan Scam,89
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,13
+UPS Delivery Notice: Driver tried to deliver your parcel at 14:30. Pay unpaid customs duties of $3.50 to avoid return to sender: http://ups-redelivery-center.org,1,Delivery Scam,92
+"Dear User, your Airtel SIM KYC is incomplete and your outgoing calls will be stopped in 24 hours. Call 9823481234 or visit http://airtel-quick-kyc.site Failure to do so will result in permanent suspension.",1,KYC Scam,86
+"PhonePe Reward: You won a scratch card worth Rs 1,450! Open link and enter your UPI PIN to credit funds to your bank: http://phonepe-scratchcard.biz/claim",1,UPI Scam,94
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,5
+Metamask Critical Notice: Web3 wallet synchronization required following Ethereum hard fork. Sync your 12-word seed phrase now to protect assets: https://metamask-sync-wallet.tech Ignore this and legal action may be initiated.,1,Crypto Scam,99
+"ACTION REQUIRED WITHIN 24 HOURS: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org Time sensitive offer expires in 15 minutes.",1,Government Impersonation,98
+Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip,1,Job Scam,94
+URGENT ATTENTION REQUIRED: Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz Contact helpdesk immediately if you did not authorize this.,1,Investment Scam,85
+ACTION REQUIRED WITHIN 24 HOURS: Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co Contact helpdesk immediately if you did not authorize this.,1,Investment Scam,98
+IMPORTANT SECURITY ALERT: Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately!,1,Tech Support Scam,97
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,10
+Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc,1,Crypto Scam,98
+Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity.,1,OTP Scam,95
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,9
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,6
+FINAL REMINDER: McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site,1,Tech Support Scam,90
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,24
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,16
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,12
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,10
+Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity. Contact helpdesk immediately if you did not authorize this.,1,OTP Scam,93
+"ACTION REQUIRED WITHIN 24 HOURS: DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately.",1,OTP Scam,90
+"Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc Ignore this and legal action may be initiated.",1,Government Impersonation,91
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,12
+"You have received a pending cashback of Rs 2,999 on GooglePay! Click here to accept payment into your bank account: gpay-rewards.claim-pay.in?id=98214 Failure to do so will result in permanent suspension.",1,UPI Scam,92
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,16
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,22
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 195.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,15
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,22
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,6
+"DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Contact helpdesk immediately if you did not authorize this.",1,OTP Scam,97
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,20
+Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top Contact helpdesk immediately if you did not authorize this.,1,Prize Scam,93
+Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz,1,Investment Scam,92
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 765.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,4
+Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify,1,Banking Scam,99
+"You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery.",1,Lottery Scam,99
+"Congratulations! Your resume was shortlisted for Amazon Remote Data Entry Executive. Salary: $4,500/month. Pay initial registration fee of $50 to start onboarding.",1,Job Scam,94
+ACT IMMEDIATELY: Buyer wants to pay via QR code on OLX. Scan this QR code and type your 6-digit UPI PIN to receive money in your account right now. Time sensitive offer expires in 15 minutes.,1,UPI Scam,94
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,5
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,21
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,17
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,16
+Exclusive insider stocks tip. Guaranteed 50% weekly gain on penny stocks. Register on our proprietary trading platform: http://elite-stock-multiplier.biz,1,Investment Scam,88
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,7
+"IMPORTANT SECURITY ALERT: Income Tax Department Notice: Tax refund of Rs 18,740 has been approved for your PAN card. Verify your bank account number and IFSC code immediately to credit refund: http://incometax-refund-gov.in.org",1,Government Impersonation,97
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,17
+"Your monthly electricity bill for meter #892147 is Rs 1,420. Due date is 15-Oct-2026. Pay safely through your provider portal at https://www.bescom.co.in or official BBPS app.",0,Legitimate,5
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,14
+"IMPORTANT SECURITY ALERT: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan. Failure to do so will result in permanent suspension.",1,Loan Scam,95
+"You have been chosen as the 1st prize winner of Mercedes Benz car or cash equivalent $150,000. Send processing fee to customs agent to arrange delivery. Ignore this and legal action may be initiated.",1,Lottery Scam,99
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,9
+"ACT IMMEDIATELY: Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim.",1,Lottery Scam,99
+"IMPORTANT SECURITY ALERT: Dear User, your Airtel SIM KYC is incomplete and your outgoing calls will be stopped in 24 hours. Call 9823481234 or visit http://airtel-quick-kyc.site",1,KYC Scam,84
+ACT IMMEDIATELY: Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity. Ignore this and legal action may be initiated.,1,OTP Scam,93
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,23
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,5
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,24
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 197.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,19
+Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify,1,Banking Scam,99
+"Congratulations! You have won ₹50,000. Click this link immediately to claim your prize.",1,Prize Scam,93
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,4
+Your WhatsApp code is 382-192. Our security agent needs this code to verify your account recovery request. Please text it back now. Contact helpdesk immediately if you did not authorize this.,1,OTP Scam,88
+"Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc Time sensitive offer expires in 15 minutes.",1,Government Impersonation,95
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 407.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,24
+IMPORTANT SECURITY ALERT: FedEx: Your package #FDX-83921 could not be delivered due to incorrect street address. Please update delivery details within 12 hours or item will be returned: https://fedex-parcel-update.com/track Failure to do so will result in permanent suspension.,1,Delivery Scam,87
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,3
+"URGENT ATTENTION REQUIRED: Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim.",1,Lottery Scam,99
+"ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel Do not ignore this alert.",1,Banking Scam,94
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,14
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,21
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,23
+"Your ICICI Bank credit card statement for statement cycle ending Sep 2026 is ready. Total amount due: Rs 8,450. Due date: 22-Oct-2026.",0,Legitimate,5
+India Post: Your parcel has arrived at distribution center but is on hold due to missing customs payment of Rs 48. Pay fee online to reschedule delivery: http://indiapost-parcel-clearance.net,1,Delivery Scam,93
+"ACT IMMEDIATELY: Facebook Security Team: Someone tried to reset your password from Nigeria. If this was not you, confirm your identity by submitting your credentials at http://facebook-security-check.vip",1,Social Media Scam,91
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,5
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,9
+URGENT ATTENTION REQUIRED: Your ICICI NetBanking profile password will expire today. Renew now to prevent interruption in services: https://icici-security-renew.top/login,1,Banking Scam,87
+URGENT ATTENTION REQUIRED: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top Time sensitive offer expires in 15 minutes.,1,KYC Scam,88
+ACTION REQUIRED WITHIN 24 HOURS: Guaranteed 200% return in just 7 days! Join our VIP Forex and Crypto trading signals group. Zero risk with our AI bot. Deposit min 5000 INR: https://crypto-wealth-vault.co,1,Investment Scam,93
+LinkedIn: You have 3 new notifications and 1 connection request waiting from John Doe (Staff Engineer at Stripe).,0,Legitimate,15
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,20
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,18
+ACT IMMEDIATELY: Microsoft Alert: Windows detected Trojan:Win32/TrojanSpy virus on your computer. Your financial data and passwords are being transmitted. Call official support: 1-800-482-1920 immediately!,1,Tech Support Scam,94
+"URGENT ATTENTION REQUIRED: Dear User, your Airtel SIM KYC is incomplete and your outgoing calls will be stopped in 24 hours. Call 9823481234 or visit http://airtel-quick-kyc.site Ignore this and legal action may be initiated.",1,KYC Scam,84
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,11
+"Dear customer, your HDFC Bank account xx4012 was debited by Rs 544.00 on 02-Oct-2026 at Starbucks Cafe. Available balance: Rs 42,109.20. If not you, SMS BLOCK to 5676712.",0,Legitimate,23
+Pre-approved emergency personal loan up to 10 Lakhs with no CIBIL score required and zero documents! Download fast loan APK: http://quick-cash-disburse.apk Do not ignore this alert.,1,Loan Scam,95
+Your order #9821481 has been shipped via BlueDart. Track package status at https://www.bluedart.com with AWB 981240182.,0,Legitimate,23
+"Hi Sarah, let's catch up next Monday at 10:30 AM for the quarterly engineering sync. I'll book the conference room.",0,Legitimate,6
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,9
+Elon Musk 5000 BTC Giveaway: Send 0.1 BTC to the official wallet address below and receive 0.2 BTC instantly in return to celebrate Tesla earnings! Visit: http://elon-tesla-giveaway.cc,1,Crypto Scam,94
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,14
+"Google Security Alert: A new sign-in from Chrome on macOS was detected for your account user@example.com. If this was you, no action needed.",0,Legitimate,12
+"ACTION REQUIRED WITHIN 24 HOURS: ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel Do not ignore this alert.",1,Banking Scam,93
+ACTION REQUIRED WITHIN 24 HOURS: Bank Support: We are cancelling the fraud charge on your credit card. Please share the 6-digit OTP sent to your phone to confirm your identity. Do not ignore this alert.,1,OTP Scam,96
+"Congratulations! You have won 25,00,000 INR in Kaun Banega Crorepati (KBC) Lucky Draw 2026. Contact KBC manager Mr. Rana Pratap on WhatsApp +91-9988776655 to claim. Failure to do so will result in permanent suspension.",1,Lottery Scam,98
+Double your money in 48 hours! Government approved multi-yield mutual fund scheme. Limited slots remaining. Transfer funds to UPI: instantgrow@ybl Do not ignore this alert.,1,Investment Scam,95
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,18
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,21
+Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip Time sensitive offer expires in 15 minutes.,1,Job Scam,88
+"IMPORTANT SECURITY ALERT: DO NOT SHARE: Use OTP 849201 to approve your transaction of INR 25,000. If this was not you, send this OTP to +91-9876543210 to cancel immediately. Do not ignore this alert.",1,OTP Scam,96
+Airtel recharge successful: Unlimited 5G pack activated for 84 days. High-speed data balance: 2GB/day. Thank you for choosing Airtel.,0,Legitimate,17
+"Hi team, please review the pull request for the new authentication middleware before end of day. Link: https://github.com/company/repo/pull/142",0,Legitimate,20
+Your OTP for login to Amazon is 491029. Valid for 10 minutes. Please do not share this OTP with anyone for security reasons.,0,Legitimate,15
+URGENT ATTENTION REQUIRED: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top Do not ignore this alert.,1,KYC Scam,85
+"URGENT ATTENTION REQUIRED: Dhani Loan: Your loan application of Rs 2,50,000 has been cleared. Submit your PAN card and pay advance stamp duty fee of Rs 1,200 to release loan. Failure to do so will result in permanent suspension.",1,Loan Scam,95
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,5
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,18
+Zoom meeting invite: Project ScamShield Standup starting at 9:00 AM UTC. Join URL: https://zoom.us/j/9182374619,0,Legitimate,20
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,18
+Swiggy order confirmed! Restaurant is preparing your food. Delivery partner will be assigned shortly. Estimated delivery time: 35 mins.,0,Legitimate,17
+"Reminder: Your dental appointment with Dr. Sharma is confirmed for Wednesday at 4:00 PM. Reply 1 to confirm, 2 to reschedule.",0,Legitimate,13
+McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site Ignore this and legal action may be initiated.,1,Tech Support Scam,89
+Spin to win! You have won an Apple iPhone 15 Pro Max from Amazon 30th Anniversary celebration! Fill your delivery address and pay shipping fee of Rs 199: http://amazon-anniversary-gift.top Contact helpdesk immediately if you did not authorize this.,1,Prize Scam,91
+IMPORTANT SECURITY ALERT: Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify,1,Banking Scam,95
+"ACTION REQUIRED WITHIN 24 HOURS: Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc",1,Government Impersonation,92
+NOTICE: Jio Customer Alert: Your SIM card documentation has expired. Complete Aadhaar e-KYC immediately to prevent disconnection: http://jio-verification-kyc.online Contact helpdesk immediately if you did not authorize this.,1,KYC Scam,90
+"Dear Employee, the annual health checkup camp will be organized in the cafeteria next Tuesday from 9 AM to 3 PM. Please register on the internal portal.",0,Legitimate,21
+ACTION REQUIRED WITHIN 24 HOURS: BSNL Advisory: Important update regarding your mobile line. Please verify Aadhaar number and PAN card by clicking http://bsnl-reverification.top Do not ignore this alert.,1,KYC Scam,81
+"ALERT: Unauthorized debit of Rs 48,990 attempted from your HDFC account. If not done by you, immediately reverse the transaction by clicking https://hdfc-fraud-verify.link/cancel",1,Banking Scam,95
+McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site Contact helpdesk immediately if you did not authorize this.,1,Tech Support Scam,92
+ACT IMMEDIATELY: Notice: Your debit card has been blocked due to suspicious activity. Verify card details and CVV to reactivate: http://bank-card-unlock.info/verify,1,Banking Scam,92
+ACT IMMEDIATELY: Earn 3000 to 5000 INR per day working 1-2 hours from home by liking YouTube videos and rating hotels on Google Maps! Contact manager on Telegram: @hr_recruit_vip Contact helpdesk immediately if you did not authorize this.,1,Job Scam,90
+"Weather update: Moderate rainfall expected in Bangalore today. High 28°C, Low 20°C. Carry an umbrella.",0,Legitimate,21
+McAfee Antivirus: Your subscription has expired! 5 viruses found. Renew protection immediately or your PC will be locked: http://mcafee-renew-protection.site Time sensitive offer expires in 15 minutes.,1,Tech Support Scam,88
+Netflix: Your subscription has been renewed successfully for Rs 649. Next billing date is 02-Nov-2026.,0,Legitimate,6
+"Your monthly Spotify Premium subscription of $9.99 will auto-renew on October 12, 2026. Manage subscription in account settings.",0,Legitimate,5
+"Traffic Police Cyber Cell: E-challan pending against your vehicle DL01AB1234. Pay fine of Rs 2,000 within 24 hours to avoid court summons and license suspension: http://echallan-parivahan-pay.cc Contact helpdesk immediately if you did not authorize this.",1,Government Impersonation,94
+"ACTION REQUIRED WITHIN 24 HOURS: Approved! Instant loan of Rs 5,00,000 sanctioned for your mobile number with 0% interest for 12 months. Pay processing fee of Rs 999 to disburse funds to bank.",1,Loan Scam,95
+"Hi mom, I reached the hotel safely. The flight was on time. Will call you after dinner!",0,Legitimate,10
+Your Uber trip receipt: Rs 280.00 charged to your credit card ending in 8812. Thank you for riding with Uber.,0,Legitimate,7
+"URGENT ATTENTION REQUIRED: DHL International Logistics hiring shipment coordinators. Work from mobile. Deposit refundable equipment security charge of Rs 1,500 to receive company laptop. Contact helpdesk immediately if you did not authorize this.",1,Job Scam,95
+Your ICICI NetBanking profile password will expire today. Renew now to prevent interruption in services: https://icici-security-renew.top/login,1,Banking Scam,88

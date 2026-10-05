@@ -1,0 +1,40 @@
+{
+  "text_model": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "confusion_matrix": [
+      [
+        81,
+        0
+      ],
+      [
+        0,
+        87
+      ]
+    ],
+    "total_test_samples": 168
+  },
+  "url_model": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "confusion_matrix": [
+      [
+        24,
+        0
+      ],
+      [
+        0,
+        87
+      ]
+    ],
+    "total_test_samples": 111
+  },
+  "timestamp": "2026-10-02T19:35:00Z",
+  "description": "ScamShield AI Production Model Evaluation Suite"
+}
